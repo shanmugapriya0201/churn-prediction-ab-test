@@ -18,9 +18,6 @@ Steps:
   9.  Train final model on full training set
   10. Evaluate on held-out test set
   11. Run A/B test simulation
-  12. Print final business recommendation
-
-Author: Shanmugapriya A
 """
 
 import os
